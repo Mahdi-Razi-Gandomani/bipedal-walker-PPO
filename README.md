@@ -15,7 +15,7 @@ This project trains a bipedal robot to walk using PPO, a policy gradient reinfor
 Below is a GIF showing the DQN agent successfully playing Flappy Bird after training.
 
 <p align="center">
-  <img src="result/demo.gif" alt="Flappy Bird agent playing autonomously">
+  <img src="result/demo.gif" alt="BipedaWalker agent walking autonomously">
 </p>
 
 ---
