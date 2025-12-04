@@ -24,7 +24,7 @@ Below is a GIF showing the DQN agent successfully playing Flappy Bird after trai
 
 The following plot shows the episode rewards with average reward progression over 1000 episodes of training:
 
-![Learning Curve](results/rewards.png) 
+![rewards](results/rewards.png) 
 
 ---
 
