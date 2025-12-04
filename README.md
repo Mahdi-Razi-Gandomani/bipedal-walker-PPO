@@ -67,7 +67,7 @@ cd bipedal-walker-PPO
 ### Training
 
 ```bash
-python3 bipedalWalkerPPO.py
+python3 main.py
 ```
 
 The script will:
