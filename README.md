@@ -124,7 +124,7 @@ PPO is an on-policy algorithm that:
 
 ## References
 
-- [Proximal Policy Optimization Algorithms (Schulman et al., 2017)](https://arxiv.org/abs/1707.06347)
-- [OpenAI Gymnasium BipedalWalker](https://gymnasium.farama.org/environments/box2d/bipedal_walker/)
+[1] J. Schulman, F. Wolski, P. Dhariwal, A. Radford, and O. Klimov, *Proximal Policy Optimization Algorithms*, arXiv preprint arXiv:1707.06347, 2017.
+[2] [OpenAI Gymnasium BipedalWalker](https://gymnasium.farama.org/environments/box2d/bipedal_walker/)
 
 
